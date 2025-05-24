@@ -23,6 +23,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MiniEnemy&icon=1&color=0)](https://visitcount.itsvg.in)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aasis-io/MiniEnemy/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiniEnemy/MiniEnemy/output/github-snake-dark.svg" />
