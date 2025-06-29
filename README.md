@@ -136,7 +136,6 @@ public class Developer
 
 **⚡ Fun Fact:** Still playing futsal with Aryan - the same teammate I've built two amazing applications with! 🏃‍♂️⚽
 
-<img src="https://komarev.com/github-profile-views-counter/svg?username=MiniEnemy&color=blueviolet&style=for-the-badge"/>
 
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
