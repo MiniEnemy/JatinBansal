@@ -22,12 +22,11 @@ public class Developer
     public string Name { get; set; } = "Jatin Bansal";
     public string[] CurrentFocus { get; set; } = { "Full-Stack Development", ".NET Technologies", "Web Applications" };
     public string Location { get; set; } = "Nepal";
-    public string[] Interests { get; set; } = { "E-commerce", "Gaming", "Futsal", "Problem Solving" };
+    public string[] Interests { get; set; } = { "E-commerce", "Gaming", "Problem Solving","Video Editing" };
     
     public void GetCurrentStatus()
     {
         Console.WriteLine("🔭 Mastering ASP.NET Core & Entity Framework");
-        Console.WriteLine("🌱 Learning React & Advanced Backend Architecture");
         Console.WriteLine("⚡ Building scalable web applications");
     }
 }
